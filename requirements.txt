@@ -1,0 +1,7 @@
+streamlit>1.10.0
+tensorflow>=2.6
+keras>=2.6
+numpy>=1.19
+pillow>=8.0
+
+python -m virtualenv bin
